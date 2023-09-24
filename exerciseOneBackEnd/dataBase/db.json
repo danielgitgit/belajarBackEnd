@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "RTX 3060",
+      "price": 5600000
+    },
+    {
+      "id": 2,
+      "name": "monitor AOC 27inch",
+      "price": 2300000
+    },
+    {
+      "name": "Logitech Mouse K100",
+      "price": 100000,
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "name": "agudajar",
+      "price": 123113313131,
+      "id": 5
+    },
+    {
+      "name": "melone",
+      "price": "120000000",
+      "id": 6
+    },
+    {
+      "name": "allnew XL Bomber",
+      "price": 123113313131,
+      "id": 7
+    }
+  ],
+  "cart": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Aries Dimas",
+      "email": "ariesdimasy@gmail.com",
+      "password": "Admin123#"
+    },
+    {
+      "name": "Rian D ",
+      "email": "riand@gmail.com",
+      "password": "Admin123#",
+      "id": 3
+    },
+    {
+      "name": "Farida Syahida",
+      "email": "farida.syahida@gmail.com",
+      "password": "Admin123$",
+      "id": 4
+    },
+    {
+      "name": "Jotaro Kujo",
+      "email": "jotaro.kujo@gmail.com",
+      "password": "asdasd",
+      "id": 5
+    },
+    {
+      "name": "Rohan ",
+      "email": "rohan@gmail.com",
+      "password": "admin123",
+      "id": 6
+    },
+    {
+      "name": "dssdfsdf",
+      "email": "dimas@gmail.com",
+      "password": "dsgfdsfdsfdsf",
+      "id": 7
+    },
+    {
+      "name": "Fadhil Nuruzzaman",
+      "username": "Fadhil",
+      "email": "fadhil.nuruzzaman@gmail.com",
+      "password": "123456",
+      "password_confirm": "123456",
+      "id": 8
+    },
+    {
+      "name": "Gol D Roger",
+      "username": "gold.roger",
+      "email": "gold.roger@gmail.com",
+      "password": "12345",
+      "password_confirm": "12345",
+      "id": 9
+    },
+    {
+      "name": "lutfi mubarrak",
+      "username": "lutfi.mubarrak",
+      "email": "lutfi.mubarrak@gmail.com",
+      "password": "12345",
+      "password_confirm": "12345",
+      "id": 10
+    }
+  ],
+  "tweets": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "name": "Aries Dimas",
+      "tweet": "Iggy is my friend"
+    },
+    {
+      "tweet": "hello iam new on this wall",
+      "user_id": 1,
+      "name": "Aries Dimas",
+      "id": 2
+    },
+    {
+      "tweet": "where is my friend Iggy ? ",
+      "user_id": 1,
+      "name": "Aries Dimas",
+      "id": 3
+    },
+    {
+      "tweet": "hello hello",
+      "user_id": 1,
+      "name": "Aries Dimas",
+      "id": 4
+    },
+    {
+      "tweet": "abcdefgh",
+      "user_id": 1,
+      "name": "Aries Dimas",
+      "id": 5
+    },
+    {
+      "tweet": "hello , help me to find the solution",
+      "user_id": 1,
+      "name": "Aries Dimas",
+      "id": 6
+    },
+    {
+      "tweet": "bisa gak sih ? ",
+      "user_id": 1,
+      "name": "Aries Dimas",
+      "id": 7
+    },
+    {
+      "tweet": "bisa load otomatis ?",
+      "user_id": 1,
+      "name": "Aries Dimas",
+      "id": 8
+    },
+    {
+      "tweet": "ini data terakhir",
+      "user_id": 1,
+      "name": "Aries Dimas",
+      "id": 9
+    },
+    {
+      "tweet": "apakah tweet ini bisa kosong setelah di submit",
+      "user_id": 1,
+      "name": "Aries Dimas",
+      "id": 10
+    },
+    {
+      "tweet": "you want my treasure ?",
+      "user_id": 9,
+      "name": "Gol D Roger",
+      "id": 11
+    },
+    {
+      "tweet": "find it , my treasure is around the world ",
+      "user_id": 9,
+      "name": "Gol D Roger",
+      "id": 12
+    }
+  ],
+  "likeHistory": [
+    {
+      "id_tweet": 12,
+      "id_user": 1
+    },
+    {
+      "id_tweet": 12,
+      "id_user": 2
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1,
+      "name": "beli NVME 2.0 SSD 500GB",
+      "nominal": 1200000,
+      "category": "PCMR",
+      "date": "2023-10-01"
+    },
+    {
+      "name": "beli iphone 12 128gb",
+      "nominal": 11000000,
+      "category": "electronic",
+      "id": 3,
+      "date": "2023-10-02"
+    },
+    {
+      "name": "beli MIC rode 1500",
+      "nominal": 900000,
+      "category": "electronic",
+      "id": 4,
+      "date": "2023-10-03"
+    },
+    {
+      "name": "beli pena",
+      "nominal": 7000,
+      "category": "office tools",
+      "id": 5,
+      "date": "2023-10-04"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "expense-list": [
+    {
+      "id": 1,
+      "name": "beli NVME 2.0 SSD 500GB",
+      "nominal": 1200000,
+      "category": "PCMR",
+      "date": "2023-10-01"
+    },
+    {
+      "name": "beli iphone 12 128gb",
+      "nominal": 11000000,
+      "category": "electronic",
+      "id": 3,
+      "date": "2023-10-02"
+    },
+    {
+      "name": "ini editan kedua",
+      "nominal": 80000000,
+      "category": "entertainment",
+      "date": "10 Maret 2023",
+      "id": 6
+    },
+    {
+      "name": "ini editan",
+      "nominal": 80000000,
+      "category": "entertainment",
+      "date": "10 Maret 2023",
+      "id": 7
+    },
+    {
+      "name": "allnew XL Bomber",
+      "nominal": 80000000,
+      "category": "entertainment",
+      "date": "10 Maret 2023",
+      "id": 8
+    },
+    {
+      "name": "allnew XL Bomber",
+      "nominal": 80000000,
+      "category": "entertainment",
+      "date": "10 Maret 2023",
+      "id": 9
+    },
+    {
+      "name": "bisa ini",
+      "nominal": 80000000,
+      "category": "entertainment",
+      "date": "10 Maret 2023",
+      "id": 10
+    },
+    {
+      "name": "bisa ga ya",
+      "nominal": 80000000,
+      "category": "entertainment",
+      "date": "10 Maret 2023",
+      "id": 11
+    }
+  ]
+}
